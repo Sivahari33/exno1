@@ -1,7 +1,7 @@
 
 ## Ex:01 Data Cleaning Process using Python
-## NAME:DHARUN ARULSELVAN
-## REG NO: 212224220024
+## NAME:SIVAHARIBALAN K
+## REG NO: 212224220103
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
